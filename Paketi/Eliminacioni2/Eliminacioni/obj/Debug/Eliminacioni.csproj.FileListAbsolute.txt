@@ -1,0 +1,15 @@
+E:\FTN\Predmeti\Virtuelizacija procesa\Projekti\2025-2026\Eliminacioni\Primeri\2\Eliminacioni\bin\Debug\Eliminacioni.exe.config
+E:\FTN\Predmeti\Virtuelizacija procesa\Projekti\2025-2026\Eliminacioni\Primeri\2\Eliminacioni\bin\Debug\Eliminacioni.exe
+E:\FTN\Predmeti\Virtuelizacija procesa\Projekti\2025-2026\Eliminacioni\Primeri\2\Eliminacioni\bin\Debug\Eliminacioni.pdb
+E:\FTN\Predmeti\Virtuelizacija procesa\Projekti\2025-2026\Eliminacioni\Primeri\2\Eliminacioni\obj\Debug\Eliminacioni.csproj.AssemblyReference.cache
+E:\FTN\Predmeti\Virtuelizacija procesa\Projekti\2025-2026\Eliminacioni\Primeri\2\Eliminacioni\obj\Debug\Eliminacioni.csproj.CoreCompileInputs.cache
+E:\FTN\Predmeti\Virtuelizacija procesa\Projekti\2025-2026\Eliminacioni\Primeri\2\Eliminacioni\obj\Debug\Eliminacioni.exe
+E:\FTN\Predmeti\Virtuelizacija procesa\Projekti\2025-2026\Eliminacioni\Primeri\2\Eliminacioni\obj\Debug\Eliminacioni.pdb
+E:\Faks\GOD3\VP TEST\Paketi\Eliminacioni2\Eliminacioni\bin\Debug\Eliminacioni.exe.config
+E:\Faks\GOD3\VP TEST\Paketi\Eliminacioni2\Eliminacioni\bin\Debug\Eliminacioni.exe
+E:\Faks\GOD3\VP TEST\Paketi\Eliminacioni2\Eliminacioni\bin\Debug\Eliminacioni.pdb
+E:\Faks\GOD3\VP TEST\Paketi\Eliminacioni2\Eliminacioni\obj\Debug\Eliminacioni.csproj.AssemblyReference.cache
+E:\Faks\GOD3\VP TEST\Paketi\Eliminacioni2\Eliminacioni\obj\Debug\Eliminacioni.exe.config
+E:\Faks\GOD3\VP TEST\Paketi\Eliminacioni2\Eliminacioni\obj\Debug\Eliminacioni.csproj.CoreCompileInputs.cache
+E:\Faks\GOD3\VP TEST\Paketi\Eliminacioni2\Eliminacioni\obj\Debug\Eliminacioni.exe
+E:\Faks\GOD3\VP TEST\Paketi\Eliminacioni2\Eliminacioni\obj\Debug\Eliminacioni.pdb
