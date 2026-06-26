@@ -1,0 +1,21 @@
+E:\Faks\GOD3\VP TEST\File\Eliminacioni\Eliminacioni\Client\bin\Release\Client.exe.config
+E:\Faks\GOD3\VP TEST\File\Eliminacioni\Eliminacioni\Client\bin\Release\Client.exe
+E:\Faks\GOD3\VP TEST\File\Eliminacioni\Eliminacioni\Client\bin\Release\Client.pdb
+E:\Faks\GOD3\VP TEST\File\Eliminacioni\Eliminacioni\Client\bin\Release\Common.dll
+E:\Faks\GOD3\VP TEST\File\Eliminacioni\Eliminacioni\Client\bin\Release\Common.pdb
+E:\Faks\GOD3\VP TEST\File\Eliminacioni\Eliminacioni\Client\obj\Release\Client.csproj.AssemblyReference.cache
+E:\Faks\GOD3\VP TEST\File\Eliminacioni\Eliminacioni\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+E:\Faks\GOD3\VP TEST\File\Eliminacioni\Eliminacioni\Client\obj\Release\Client.csproj.Up2Date
+E:\Faks\GOD3\VP TEST\File\Eliminacioni\Eliminacioni\Client\obj\Release\Client.exe
+E:\Faks\GOD3\VP TEST\File\Eliminacioni\Eliminacioni\Client\obj\Release\Client.pdb
+F:\File\Eliminacioni\Eliminacioni\Client\bin\Release\Client.exe.config
+F:\File\Eliminacioni\Eliminacioni\Client\bin\Release\Client.exe
+F:\File\Eliminacioni\Eliminacioni\Client\bin\Release\Client.pdb
+F:\File\Eliminacioni\Eliminacioni\Client\bin\Release\Common.dll
+F:\File\Eliminacioni\Eliminacioni\Client\bin\Release\Common.pdb
+F:\File\Eliminacioni\Eliminacioni\Client\obj\Release\Client.csproj.AssemblyReference.cache
+F:\File\Eliminacioni\Eliminacioni\Client\obj\Release\Client.exe.config
+F:\File\Eliminacioni\Eliminacioni\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+F:\File\Eliminacioni\Eliminacioni\Client\obj\Release\Client.csproj.Up2Date
+F:\File\Eliminacioni\Eliminacioni\Client\obj\Release\Client.exe
+F:\File\Eliminacioni\Eliminacioni\Client\obj\Release\Client.pdb

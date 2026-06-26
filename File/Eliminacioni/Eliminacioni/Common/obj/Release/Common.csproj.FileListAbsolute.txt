@@ -1,0 +1,6 @@
+E:\Faks\GOD3\VP TEST\File\Eliminacioni\Eliminacioni\Common\bin\Release\Common.dll
+E:\Faks\GOD3\VP TEST\File\Eliminacioni\Eliminacioni\Common\bin\Release\Common.pdb
+E:\Faks\GOD3\VP TEST\File\Eliminacioni\Eliminacioni\Common\obj\Release\Common.csproj.AssemblyReference.cache
+E:\Faks\GOD3\VP TEST\File\Eliminacioni\Eliminacioni\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
+E:\Faks\GOD3\VP TEST\File\Eliminacioni\Eliminacioni\Common\obj\Release\Common.dll
+E:\Faks\GOD3\VP TEST\File\Eliminacioni\Eliminacioni\Common\obj\Release\Common.pdb

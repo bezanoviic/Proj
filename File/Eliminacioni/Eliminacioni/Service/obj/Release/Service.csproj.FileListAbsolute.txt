@@ -1,0 +1,21 @@
+E:\Faks\GOD3\VP TEST\File\Eliminacioni\Eliminacioni\Service\bin\Release\Service.exe.config
+E:\Faks\GOD3\VP TEST\File\Eliminacioni\Eliminacioni\Service\bin\Release\Service.exe
+E:\Faks\GOD3\VP TEST\File\Eliminacioni\Eliminacioni\Service\bin\Release\Service.pdb
+E:\Faks\GOD3\VP TEST\File\Eliminacioni\Eliminacioni\Service\bin\Release\Common.dll
+E:\Faks\GOD3\VP TEST\File\Eliminacioni\Eliminacioni\Service\bin\Release\Common.pdb
+E:\Faks\GOD3\VP TEST\File\Eliminacioni\Eliminacioni\Service\obj\Release\Service.csproj.AssemblyReference.cache
+E:\Faks\GOD3\VP TEST\File\Eliminacioni\Eliminacioni\Service\obj\Release\Service.csproj.CoreCompileInputs.cache
+E:\Faks\GOD3\VP TEST\File\Eliminacioni\Eliminacioni\Service\obj\Release\Service.csproj.Up2Date
+E:\Faks\GOD3\VP TEST\File\Eliminacioni\Eliminacioni\Service\obj\Release\Service.exe
+E:\Faks\GOD3\VP TEST\File\Eliminacioni\Eliminacioni\Service\obj\Release\Service.pdb
+F:\File\Eliminacioni\Eliminacioni\Service\bin\Release\Service.exe.config
+F:\File\Eliminacioni\Eliminacioni\Service\bin\Release\Service.exe
+F:\File\Eliminacioni\Eliminacioni\Service\bin\Release\Service.pdb
+F:\File\Eliminacioni\Eliminacioni\Service\bin\Release\Common.dll
+F:\File\Eliminacioni\Eliminacioni\Service\bin\Release\Common.pdb
+F:\File\Eliminacioni\Eliminacioni\Service\obj\Release\Service.csproj.AssemblyReference.cache
+F:\File\Eliminacioni\Eliminacioni\Service\obj\Release\Service.exe.config
+F:\File\Eliminacioni\Eliminacioni\Service\obj\Release\Service.csproj.CoreCompileInputs.cache
+F:\File\Eliminacioni\Eliminacioni\Service\obj\Release\Service.csproj.Up2Date
+F:\File\Eliminacioni\Eliminacioni\Service\obj\Release\Service.exe
+F:\File\Eliminacioni\Eliminacioni\Service\obj\Release\Service.pdb
